@@ -30,21 +30,31 @@ DEFINITIONS
 In this agreement, unless otherwise specified, the words hereunder shall have the following meaning:
 
 1.1 “Agreement” means this license agreement as well as any future revised and published versions hereof.
+
 1.2 “Codebase” means the trader, gui, santrade, guitrade Python libraries (including the source code) comprising a collection of production-ready algorithms and trading strategies.
+
 1.3 “Commencement Date” means the date the Users install the codebase and accept the terms of this agreement.
+
 1.4 “Derivative work” means an expressive creation that includes major copyrightable elements of the original codebase. 
+
 1.5 “Documentation” means any official Licensors documentation detailing the appropriate use or operation of the codebase.
+
 1.6 “Licensee(s)” means the Users who install and make use of the Licensors codebase. 
+
 1.7 “Licensor” means Singh Sanjaykumar Asheshwarnath.
+
 1.8 “Modification” means a change to the delivered codebase or data; or any development, enhancement or change made to the existing functionality of the 
      codebase including, but not limited to, the creation of any new libraries or derivative works or the extension of the Licensors data structures; 
      or any other change to the codebase utilising or incorporating any of the Licensors Proprietary information and copyright materials.
+     
 1.9 “Termination Date” means the date the license is terminated as per paragraph 2 hereof; 
      alternatively, the date the User uninstalls or destroys the installed copy of the codebase from their devices or any devices under their control.
+     
 1.10 “Users” means the End Users of the codebase.
 
 
 PREAMBLE
+
 The codebase is NOT open-source. All proprietary rights are reserved under the Singh Sanjaykumar Asheshwarnath copyright. 
 The student license does NOT allow for use of the code base for any commercial purposes, it may not be reverse engineered or 
 used to create a competitor product.
@@ -56,6 +66,7 @@ arrangement with Licensor.
 
 
 GENERAL 
+
 Any reference to the singular shall be deemed to include a reference to the plural and the other way around.
 
 Any reference to a natural person shall include a reference to a legal person/juristic entity (company, corporation, or trust) and 
@@ -209,17 +220,17 @@ The Users will, at their own expense, indemnify and hold Licensor, and its affil
         personal information of the Users or individual Users with any employees and personnel, selected partners, subsidiaries, and contracted 
         third parties. The consent provided may be used to: 
  
-        11.2.1	share personal contact information electronically with the parties aforementioned;
-        
-        11.2.2	store personal information in secure storage (either on-site or online) for record-keeping purposes;
-        
-        11.2.3	use personal information for the purposes recording same into the Licensor’s software systems for the purposes 
-                required to run and manage any aspect of its business activities, including but not limited to user registrations 
-                and User identifiers;
-        
-        11.2.4	use personal information for marketing purposes;
-        
-        11.2.5	retain personal information for the required periods as required by the applicable laws at the time;
+       11.2.1	share personal contact information electronically with the parties aforementioned;
+
+       11.2.2	store personal information in secure storage (either on-site or online) for record-keeping purposes;
+
+       11.2.3	use personal information for the purposes recording same into the Licensor’s software systems for the purposes 
+               required to run and manage any aspect of its business activities, including but not limited to user registrations 
+               and User identifiers;
+
+       11.2.4	use personal information for marketing purposes;
+
+       11.2.5	retain personal information for the required periods as required by the applicable laws at the time;
  
 11.3	The Users information may be electronically transferred and shared with the parties above who will access, view, and store this personal information. 
  
