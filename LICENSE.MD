@@ -2,7 +2,7 @@ Copyright 2018, Singh Sanjaykumar Asheshwarnath
 
 Copyright Protection Notice and Licensing Agreement
 
-LAST UPDATED Sept 2021
+LAST UPDATED January 2023
 
 IMPORTANT NOTICE! THE USER OF THIS CODEBASE IS SUBJECT TO ALL THE TERMS AND CONDITIONS IN THIS AGREEMENT. 
 THEREFORE, PLEASE SCROLL THROUGH AND READ ALL OF THE TERMS AND CONDITIONS IN THIS AGREEMENT CAREFULLY BEFORE MAKING USE THEREOF. 
@@ -31,7 +31,7 @@ In this agreement, unless otherwise specified, the words hereunder shall have th
 
 1.1 “Agreement” means this license agreement as well as any future revised and published versions hereof.
 
-1.2 “Codebase” means the trader, gui, santrade, guitrade Python libraries (including the source code) comprising a collection of production-ready algorithms and trading strategies.
+1.2 “Codebase” means the trader, gui, santrade, guitrade, clsloader Python and C libraries (including the source code) comprising a collection of production-ready algorithms and trading strategies.
 
 1.3 “Commencement Date” means the date the Users install the codebase and accept the terms of this agreement.
 
